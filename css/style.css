@@ -46,3 +46,22 @@
 .Moth-bitten-library---Drawtober-4-hex { color: #A67A53; }
 .Moth-bitten-library---Drawtober-5-hex { color: #A65656; }
 */
+
+:root {
+    --c1: #D9BFA9;
+    --c2: #A69281;
+    --c3: #26221E;
+    --c4: #F2D8C2;
+    --c5: #595047;
+    --c6: #F7F1E4;
+    --c7: #A17749;
+    --c8: #FAFAF8;
+}
+
+body {
+    background-color: var(--c6);
+}
+
+h1 {
+    color: var(--c7);
+}

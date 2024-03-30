@@ -1,0 +1,4 @@
+#Fri Mar 29 23:24:05 BRT 2024
+shadowMapResolution=512
+cloudVolumeEnabled=false
+godraysEnabled=false
